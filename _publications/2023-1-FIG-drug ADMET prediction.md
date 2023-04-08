@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "A machine learning-based approach to ER$\alpha$ bioactivity and drug ADMET prediction"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'The quantitative prediction model of ER$\alpha$ bioactivity and classification prediction model of Absorption, Distribution, Metabolism, Excretion, Toxicity properties were constructed. The prediction results of ER$\alpha$ bioactivity were compared by XGBoot, Light GBM, Random Forest and MLP neural network. Two models with high prediction accuracy were selected and fused to obtain ER$\alpha$ bioactivity prediction model from Mean absolute error (MAE), mean squared error (MSE) and R2.
+**This paper is the conversion result of the article that won the national third prize in the 18th Huawei Cup Mathematical Contest in Modeling.**'
+date: 2023-1-4
+venue: 'Frontiers in Genetics'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fgene.2022.1087273/full'
+citation: 'An T, Chen Y, Chen Y, et al. A machine learning-based approach to ERα bioactivity and drug ADMET prediction[J]. Frontiers in Genetics, 2022, 13.'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
+ By predicting ER$\alpha$ bioactivity and mining the potential relationship between Absorption, Distribution, Metabolism, Excretion, Toxicity (ADMET) attributes in drug research and development, the development efficiency of specific drugs for breast cancer will be effectively improved and the misjudgment rate of R&D personnel will be reduced. The quantitative prediction model of ER$\alpha$ bioactivity and classification prediction model of Absorption, Distribution, Metabolism, Excretion, Toxicity properties were constructed. The prediction results of ER$\alpha$ bioactivity were compared by XGBoot, Light GBM, Random Forest and MLP neural network. Two models with high prediction accuracy were selected and fused to obtain ER$\alpha$ bioactivity prediction model from Mean absolute error (MAE), mean squared error (MSE) and R2. The data were further subjected to model-based feature selection and FDR/FPR-based feature selection, respectively, and the results were placed in a voting machine to obtain Absorption, Distribution, Metabolism, Excretion, Toxicity classification prediction model. In this study, 430 molecular descriptors were removed, and finally 20 molecular descriptors with the most significant effect on biological activity obtained by the dual feature screening combined optimization method were used to establish a compound molecular descriptor prediction model for ER$\alpha$ biological activity, and further classification and prediction of the Absorption, Distribution, Metabolism, Excretion, Toxicity properties of the drugs were made. Eighty variables were selected by the model ExtraTreesClassifier Classifie, and 40 variables were selected by the model GradientBoostingClassifier to complete the model based feature selection. At the same time, the feature selection method based on FDR/FPR is also selected, and the three classification models obtained by the two methods are placed into the voting machine to obtain the final model. The experimental results showed that the model‘s evaluation indexes and ROC diagram were excellent and could accurately predict ER$\alpha$ bioactivity and Absorption, Distribution, Metabolism, Excretion, Toxicity properties. The model constructed in this study has high accuracy, fast convergence and robustness, has a very high accuracy for Absorption, Distribution, Metabolism, Excretion, Toxicity and ER$\alpha$ classification prediction, has bright prospects in the biopharmaceutical field, and is an important method for energy conservation and yield increase in the future.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](../files/2023fig.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: An T, Chen Y, Chen Y, et al. A machine learning-based approach to ERα bioactivity and drug ADMET prediction[J]. Frontiers in Genetics, 2022, 13.
