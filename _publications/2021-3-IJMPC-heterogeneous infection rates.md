@@ -1,7 +1,8 @@
 ---
 title: "The spread of epidemic under voluntary vaccination with heterogeneous infection rates"
 collection: publications
-excerpt: 'Here, we propose an improved SIS model with heterogeneity in infection rates, proportional to the degree of nodes. By conducting simulations, we illustrate that almost all vaccinated nodes have high degrees when the infection rate is positively correlated with the degree of a node.'
+excerpt: 'Here, we propose an improved SIS model with heterogeneity in infection rates, proportional to the degree of nodes. By conducting simulations, we illustrate that almost all vaccinated nodes have high degrees when the infection rate is positively correlated with the degree of a node.
+**I am the first author of this paper.**'
 date: 2021-3-15
 venue: 'International Journal of Modern Physics C'
 paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/S0129183121500376'
