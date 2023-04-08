@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-为什么学术主页要全是英文？？？
-不知道有人六级没过也想搞学术吗？？？
-歧视文盲是吧！！！ 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+为什么学术主页要全用英语写？？？
+六级没过想搞学术不行是吧？？？
+歧视文盲是吧？？？
 
 A data-driven personal website
 ======
