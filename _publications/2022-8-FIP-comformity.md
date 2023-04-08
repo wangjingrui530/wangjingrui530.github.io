@@ -2,7 +2,7 @@
 title: "Impact of strategy conformity on vaccination behaviors"
 collection: publications
 excerpt: 'A novel utility model of the vaccination game is first formulated in which the influence of strategy conformity is considered. Then, we use the spatial evolutionary game theory to study the dynamics of individual vaccination strategies under the influence of strategy conformity on the scale-free network.  
-**In particular, the first author of this article is my supervisor, and I am the second author.**'
+**<br>In particular, the first author of this article is my supervisor, and I am the second author.**'
 date: 2022-8-23
 venue: 'Frontiers in Physics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fphy.2022.972457/full'

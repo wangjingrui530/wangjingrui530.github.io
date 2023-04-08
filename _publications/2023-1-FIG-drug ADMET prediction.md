@@ -2,7 +2,7 @@
 title: "A machine learning-based approach to ERα bioactivity and drug ADMET prediction"
 collection: publications
 excerpt: 'The quantitative prediction model of ER$\alpha$ bioactivity and classification prediction model of Absorption, Distribution, Metabolism, Excretion, Toxicity properties were constructed. The prediction results of ER$\alpha$ bioactivity were compared by XGBoot, Light GBM, Random Forest and MLP neural network. Two models with high prediction accuracy were selected and fused to obtain ER$\alpha$ bioactivity prediction model from Mean absolute error (MAE), mean squared error (MSE) and R2.
-**This paper is the conversion result of the article that won the national third prize in the 18th Huawei Cup Mathematical Contest in Modeling.**'
+**<br>This paper is the conversion result of the article that won the national third prize in the 18th Huawei Cup Mathematical Contest in Modeling.**'
 date: 2023-1-4
 venue: 'Frontiers in Genetics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fgene.2022.1087273/full'
