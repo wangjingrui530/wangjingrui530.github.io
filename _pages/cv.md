@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Security, School of Cyberspace Security, Hangzhou Dianzi University, 2017.9 - 2021.6
-* M.S. in Cyberspace Security, School of Network Security, Changchun University, 2021.9 - 2024.6 (expected).
+* B.S. Information Security, Hangzhou Dianzi University, 2017.9 - 2021.6
+* M.S. Cyberspace Security, Changchun University, 2021.9 - 2024.6 (expected).
 
 Work experience
 ======
