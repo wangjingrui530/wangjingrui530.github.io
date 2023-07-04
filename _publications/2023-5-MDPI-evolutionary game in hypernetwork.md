@@ -2,7 +2,7 @@
 title: "The Evolution of Cooperation in Multigames with Uniform Random Hypergraphs"
 collection: publications
 excerpt: 'How to explain the emergence of cooperative behavior remains a significant problem. As players may hold diverse perceptions on a particular dilemma, the concept of multigames has been introduced. Therefore, a multigame is studied within various binary networks. Since group structures are common in human society and a person can participate in multiple groups, this paper studies an evolutionary multigame with high-order interaction properties.
-**<br>This paper is produced by the undergraduate students under the guidance of the research group. 'm the second corresponding author.**'
+**<br>This paper is produced by the undergraduate students under the guidance of the research group. I am the second corresponding author.**'
 date: 2023-5-23
 venue: 'Mathematics'
 paperurl: 'https://www.mdpi.com/2227-7390/11/11/2409'
