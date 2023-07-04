@@ -10,3 +10,12 @@ location: "Hangzhou, China"
 
 The course is aimed at incoming graduate management students. With the background of computational social science, various practical computational methods are introduced to the students with specific management research cases, including python, data processing, data science and machine learning, with specific management practical research cases. 
 
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
+
