@@ -19,7 +19,7 @@ Work experience
 * 2022.7- Current: Algorithm Engineer Intern
   * Zhejiang Lab
   * Duties included: Agent Based Modeling, Investigate and Survey, Research Assistance 
-  * Supervisor: Engineer Bin Shao
+  * Supervisor: algorithm engineer Bin Shao
   
 Skills
 ======

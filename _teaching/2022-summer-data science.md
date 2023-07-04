@@ -1,20 +1,12 @@
 ---
 title: "Python for Data Science"
 collection: teaching
-type: "Graduate course"
+type: "Summer tutorial course of Graduate"
 venue: "Hangzhou Dianzi University, School of Management"
 date: 2022-07-01
 location: "Hangzhou, China"
 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course is aimed at incoming graduate management students. With the background of computational social science, various practical computational methods are introduced to the students with specific management research cases, including python, data processing, data science and machine learning, with specific management practical research cases. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
