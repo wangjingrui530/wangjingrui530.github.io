@@ -50,3 +50,7 @@ Teaching Experience
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+<br>
+if you want to know me better, you can find my detailed CV [here](../files/cv.pdf).
