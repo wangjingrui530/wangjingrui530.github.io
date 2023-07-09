@@ -24,11 +24,6 @@ Work experience
 Skills
 ======
 * Programming Skill
-  * Python
-  * C++
-  * Java
-  * Linux
-  * PHP
 * Data Science and Machine Learning
   * Statistics
   * Visualization
