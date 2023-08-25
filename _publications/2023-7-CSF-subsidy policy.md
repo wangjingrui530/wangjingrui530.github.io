@@ -1,5 +1,5 @@
 ---
-title: "Subsidy policy with punishment mechanism can promote voluntary vaccination behaviors in structured population"
+title: "Subsidy policy with punishment mechanism can promote voluntary vaccination behaviors in structured populations"
 collection: publications
 excerpt: 'Subsidy policies have been a common way for governments and health organizations to encourage individuals’ voluntary vaccination behaviors. However, subsidy policies are often used in combination with punishment policies in reality. So far, few researchers have studied the combination of vaccination subsidy policies and punishment policies. In this study, a new subsidy policy with the punishment mechanism (P-TAR) is first introduced in the vaccination game to explore its impact on voluntary vaccination behaviors. P-TAR selects to subsidize punishers of the last season based on the degree, which is similar to targeted subsidy policy (S-TAR). 
 **<br>I am the first author of this paper.**'
