@@ -1,5 +1,5 @@
 ---
-title: "Strategic use of payoff information in  k-hop evolutionary Best-shot networked public goods game
+title: "Strategic use of payoff information in  k-hop evolutionary Best-shot networked public goods game"
 excerpt: 'Globalization has led to increasingly interconnected interactions among individuals. Their payoffs are affected by the investment decision of themselves and their neighbors, which will cause conflicting interests between individual and social investment. Such problems can be modeled as a networked public goods game (NPGG). In this paper, we study the Best-shot NPGG model by introducing three mechanisms: k-hop, payoff information use strategy, and access cost.
 **<br>I am the first corresponding author.**'
 date: 2023-5-23
