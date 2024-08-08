@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jingrui Wang"
   avatar           : "myprofile.png"
-  bio              : "The master student who is pursuing his career in Computational Social Science."
+  bio              : "A PhD student who is pursuing his career in Computational Social Science."
   location         : "Hangzhou, China"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=zh-CN"
   email            : "wangjingrui530@gmail.com"   
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jingrui-Wang-3"
   uri              :
   bitbucket        :
   codepen          :
